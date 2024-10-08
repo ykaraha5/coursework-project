@@ -2,11 +2,11 @@ User Stories for Population Information System
 
   Population Data Query
 As a data analyst, I want to query population data by city, region, and demographic so that I can analyze population trends and patterns.
-  I want to filter population data by age group, gender, and income level so that I can **understand the needs of different demographics.
+  I want to filter population data by age group, gender, and income level so that I can understand the needs of different demographics.
 
  Report Generation
  As a government official, I want to generate detailed reports based on selected population data so that I can present findings to stakeholders.
- As a data analyst, I want to export reports in various formats (PDF, Excel, CSV)** so that I can share insights easily with my team.
+ As a data analyst, I want to export reports in various formats (PDF, Excel, CSV) so that I can share insights easily with my team.
 
  Data Comparison
  As a city planner, I want to compare population data across multiple regions side by side so that I can make informed decisions on resource allocation.
