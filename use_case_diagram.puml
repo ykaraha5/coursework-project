@@ -1,0 +1,10 @@
+@startuml
+actor DataAnalyst
+actor CityPlanner
+actor GovernmentOfficial
+
+DataAnalyst --> (View Population Data)
+CityPlanner --> (See Breakdown by Age Groups)
+GovernmentOfficial --> (Compare Population Data Across Cities)
+
+@enduml
