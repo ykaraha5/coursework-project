@@ -36,3 +36,24 @@
 
 ## 10. Maintainability
 - **User Story 17**: As a **developer**, I want the system to be **modular and well-documented** so that I can **easily update and maintain it over time**.
+
+---
+
+## 11. Country Population Reports
+- **User Story 18**: As a **data analyst**, I want to retrieve a report that lists **all countries in the world** by population from largest to smallest so that I can **analyze global population distribution**.
+- **User Story 19**: As a **data analyst**, I want to retrieve a report of **all countries in a continent** by population from largest to smallest so that I can **analyze population by continent**.
+- **User Story 20**: As a **data analyst**, I want to retrieve a report of **all countries in a region** by population from largest to smallest so that I can **analyze regional population trends**.
+- **User Story 21**: As a **data analyst**, I want to retrieve the **top N populated countries in the world**, where **N** is specified by the user, so that I can **focus on key population metrics globally**.
+- **User Story 22**: As a **data analyst**, I want to retrieve the **top N populated countries in a continent**, where **N** is specified by the user, so that I can **analyze major population centers within a continent**.
+- **User Story 23**: As a **data analyst**, I want to retrieve the **top N populated countries in a region**, where **N** is specified by the user, so that I can **focus on the largest population centers in that region**.
+
+## 12. City Population Reports
+- **User Story 24**: As a **city planner**, I want to retrieve a report that lists **all cities in the world** by population from largest to smallest so that I can **analyze global urbanization trends**.
+- **User Story 25**: As a **city planner**, I want to retrieve a report of **all cities in a continent** by population from largest to smallest so that I can **focus on major urban areas in a specific continent**.
+- **User Story 26**: As a **city planner**, I want to retrieve a report of **all cities in a region** by population from largest to smallest so that I can **study urban areas in that region**.
+- **User Story 27**: As a **city planner**, I want to retrieve a report of **all cities in a country** by population from largest to smallest so that I can **analyze the population of cities within a country**.
+- **User Story 28**: As a **city planner**, I want to retrieve a report of **all cities in a district** by population from largest to smallest so that I can **focus on district-level urbanization**.
+- **User Story 29**: As a **data analyst**, I want to retrieve the **top N populated cities in the world**, where **N** is specified by the user, so that I can **analyze major cities globally**.
+- **User Story 30**: As a **data analyst**, I want to retrieve the **top N populated cities in a continent**, where **N** is specified by the user, so that I can **analyze the largest cities within a continent**.
+- **User Story 31**: As a **data analyst**, I want to retrieve the **top N populated cities in a region**, where **N** is specified by the user, so that I can **focus on the largest urban areas in that region**.
+- **User Story 32**
