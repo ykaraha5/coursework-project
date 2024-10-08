@@ -1,10 +1,10 @@
 # User Stories for Population Information System
 
-1. Population Data Query
+## 1. Population Data Query
 - **User Story 1**: As a **data analyst**, I want to **query population data by city, region, and demographic** so that I can **analyze population trends and patterns**.
 - **User Story 2**: As a **data analyst**, I want to **filter population data by age group, gender, and income level** so that I can **understand the needs of different demographics**.
 
-2. Report Generation
+## 2. Report Generation
 - **User Story 3**: As a **government official**, I want to **generate detailed reports based on selected population data** so that I can **present findings to stakeholders**.
 - **User Story 4**: As a **data analyst**, I want to **export reports in various formats (PDF, Excel, CSV)** so that I can **share insights easily with my team**.
 
